@@ -23,4 +23,4 @@ If you want it to match the official v3.0 exactly, you can omit soldering:
 
 <img src="./v3.0/Watchy.png" style="width: 100%">
 
-如想与官方3.0一致, 可不焊接CH340x, PCF8536, 和40M晶振(官方原理图需要有, 但其实没用到40M晶振)
+如想与官方3.0一致, 可不焊接CH340x, PCF8536, 和40M晶振(官方原理图有, 但其实没用到40M晶振)
