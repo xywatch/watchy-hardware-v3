@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sqfmi/watchy-hardware/tree/v3.0">Watchy Hardware V3</a> has only released schematics and is not fully open-source, nor are there plans to fully open-source it.  
 
-This project is based on those schematics, with the following additions/modifications:  
+This project is based on the schematic, with the following additions/modifications:  
 - Added an auto-download serial chip (CH340x)  
 - Added some debug interfaces
 - Retained the v2.0 RTC chip (PCF8536)  
