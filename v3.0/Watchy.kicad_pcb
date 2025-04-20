@@ -20587,7 +20587,7 @@
 		(uuid "e272e4f2-80dd-439d-855c-4b90721e1db0")
 	)
 	(gr_text "IO37"
-		(at 81.977314 109.11 90)
+		(at 82.2 107.11 90)
 		(layer "B.SilkS" knockout)
 		(uuid "0dfe4e6f-2c6c-4276-9188-53b02f7a0f96")
 		(effects
@@ -20596,11 +20596,11 @@
 				(thickness 0.1)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "IO40"
-		(at 85.764245 109.11 90)
+		(at 85.466658 107.11 90)
 		(layer "B.SilkS" knockout)
 		(uuid "3259e00e-5086-4d5c-8279-b570d6425573")
 		(effects
@@ -20609,11 +20609,11 @@
 				(thickness 0.1)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify left top mirror)
 		)
 	)
 	(gr_text "IO39"
-		(at 84.473631 109.11 90)
+		(at 84.7 107.11 90)
 		(layer "B.SilkS" knockout)
 		(uuid "327c093d-5a17-44a8-86a7-8d30da1789cf")
 		(effects
@@ -20622,11 +20622,11 @@
 				(thickness 0.1)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "3V3"
-		(at 80.754628 109.11 90)
+		(at 80.937173 107.11 90)
 		(layer "B.SilkS" knockout)
 		(uuid "48c8f334-5895-45bb-bfb1-16b8c1e98130")
 		(effects
@@ -20635,11 +20635,11 @@
 				(thickness 0.1)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "IO38"
-		(at 83.2 109.11 90)
+		(at 83.422269 107.11 90)
 		(layer "B.SilkS" knockout)
 		(uuid "5e9b4686-9b56-42c2-8177-ad3b0ffab64c")
 		(effects
@@ -20648,11 +20648,11 @@
 				(thickness 0.1)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "GND"
-		(at 79.396088 109.11 90)
+		(at 79.7 107.11 90)
 		(layer "B.SilkS" knockout)
 		(uuid "b5f221ba-d26c-4cd8-a3e0-949050d92c5a")
 		(effects
@@ -20661,7 +20661,7 @@
 				(thickness 0.1)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "3V3"
@@ -20678,7 +20678,7 @@
 		)
 	)
 	(gr_text "1"
-		(at 77.230372 91.814918 0)
+		(at 77.2 91.814918 0)
 		(layer "F.SilkS")
 		(uuid "42863d63-9815-4a60-856a-9d1164dce8dc")
 		(effects
@@ -20704,7 +20704,7 @@
 		)
 	)
 	(gr_text "2"
-		(at 77.217337 92.935853 0)
+		(at 77.2 92.935853 0)
 		(layer "F.SilkS")
 		(uuid "7a6bef3e-6f44-42f5-9c9a-f320fa16fafa")
 		(effects
@@ -20795,7 +20795,7 @@
 		)
 	)
 	(gr_text "life"
-		(at 82.2 106.61 0)
+		(at 85.7 102.11 0)
 		(layer "B.Mask")
 		(uuid "00000000-0000-0000-0000-00005f716fef")
 		(effects
